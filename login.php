@@ -69,7 +69,7 @@ if(isset($error) && $error != '') { ?>
             </div>
             <div class="inputwrapper animate4 bounceIn">
                 <label><input type="checkbox" class="remember" name="signin" /> Запомнить меня</label>
-            </div>
+            </div> <!-- -->
 
         </form>
     </div><!--loginpanelinner-->
