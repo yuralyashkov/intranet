@@ -143,4 +143,10 @@ a,a:hover,a:active,a:focus,
 }
 
 
+html body.loginpage {
+ overflow: hidden;
+ background: url('../images/new.jpg') no-repeat;
+ background-size: cover;
+}
+
 
